@@ -4,7 +4,7 @@
 
 ### Code and Slides
 
-[Slides](https://raw.githubusercontent.com/jimmy-sonny/practical-intro-ml/master/intro_ml.pdf)
+[Slides](https://raw.githubusercontent.com/jimmy-sonny/practical-intro-ml/master/intro_ml.pdf) and 
 [Notebook](https://github.com/jimmy-sonny/practical-intro-ml/blob/master/sklean%20LinearRegression%20vs%20TPOT.ipynb)
 
 ![Logo](ML_locandina.png)
